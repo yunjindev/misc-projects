@@ -16,3 +16,21 @@ body {
     background-position: center;
     background-size: cover;
 }
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 2;
+  font-style: normal;
+}
+.lake {
+    position: relative;
+    left: -50px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.travel {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-left: 10px;
+    padding-right: 10px;
+}
