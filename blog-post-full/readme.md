@@ -1,4 +1,5 @@
-# Bringing new idea together - BLOG 
+# Bringing new ideas together
+testing how some things interact with each other
 
 ## This wont be an official posted project but something I can mark down as progress.
 
