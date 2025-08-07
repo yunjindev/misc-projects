@@ -1,3 +1,5 @@
+// testing new it changes with git
+
 async function fetchData() {
     const loadingText = document.getElementById("loading");
     const dataText = document.getElementById("data");
